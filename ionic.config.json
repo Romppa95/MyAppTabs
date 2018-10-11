@@ -1,0 +1,8 @@
+{
+  "name": "MyAppTabs",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "c92c8ced"
+}
